@@ -1,0 +1,536 @@
+########## START No.1 Judge of Day 1 ########## 
+Round 1 
+[Match Result]: player [AIM] score [486] (blocks 406, kills 8), player [王中王] score [30] (blocks 20, kills 1) 
+[Match Result]: player [AIM] score [516] (blocks 426, kills 9), player [啊吧啊吧吧] score [15] (blocks 15, kills 0) 
+[Match Result]: player [AIM] score [323] (blocks 263, kills 6), player [魔法电路全队] score [170] (blocks 150, kills 2) 
+Round 2 
+[Match Result]: player [AIM] score [368] (blocks 288, kills 8), player [王中王] score [61] (blocks 41, kills 2) 
+[Match Result]: player [AIM] score [478] (blocks 388, kills 9), player [魔法电路全队] score [41] (blocks 41, kills 0) 
+[Match Result]: player [AIM] score [462] (blocks 392, kills 7), player [啊吧啊吧吧] score [57] (blocks 57, kills 0) 
+Round 3 
+[Match Result]: player [AIM] score [408] (blocks 318, kills 9), player [魔法电路全队] score [115] (blocks 95, kills 2) 
+[Match Result]: player [AIM] score [241] (blocks 221, kills 2), player [王中王] score [240] (blocks 210, kills 3) 
+[Match Result]: player [AIM] score [515] (blocks 425, kills 9), player [啊吧啊吧吧] score [11] (blocks 11, kills 0) 
+Round 4 
+[Match Result]: player [AIM] score [516] (blocks 416, kills 10), player [魔法电路全队] score [22] (blocks 22, kills 0) 
+[Match Result]: player [AIM] score [422] (blocks 362, kills 6), player [王中王] score [83] (blocks 63, kills 2) 
+[Match Result]: player [AIM] score [467] (blocks 377, kills 9), player [啊吧啊吧吧] score [64] (blocks 54, kills 1) 
+Round 5 
+[Match Result]: player [AIM] score [450] (blocks 380, kills 7), player [魔法电路全队] score [74] (blocks 54, kills 2) 
+[Match Result]: player [AIM] score [286] (blocks 226, kills 6), player [王中王] score [166] (blocks 136, kills 3) 
+[Match Result]: player [AIM] score [496] (blocks 406, kills 9), player [啊吧啊吧吧] score [30] (blocks 30, kills 0) 
+########## END No.1 Judge of Day 1 ########## 
+
+########## START No.2 Judge of Day 1 ########## 
+Round 1 
+[Match Result]: player [划水摸鱼拉拉面] score [3] (blocks 3, kills 0), player [AIM] score [523] (blocks 443, kills 8) 
+[Match Result]: player [AIM] score [457] (blocks 387, kills 7), player [魔法电路全队] score [46] (blocks 26, kills 2) 
+[Match Result]: player [AIM] score [394] (blocks 334, kills 6), player [王中王] score [129] (blocks 99, kills 3) 
+[Match Result]: player [AIM] score [493] (blocks 413, kills 8), player [啊吧啊吧吧] score [35] (blocks 35, kills 0) 
+Round 2 
+[Match Result]: player [划水摸鱼拉拉面] score [37] (blocks 37, kills 0), player [AIM] score [477] (blocks 407, kills 7) 
+[Match Result]: player [AIM] score [385] (blocks 355, kills 3), player [魔法电路全队] score [106] (blocks 96, kills 1) 
+[Match Result]: player [AIM] score [454] (blocks 384, kills 7), player [王中王] score [61] (blocks 51, kills 1) 
+[Match Result]: player [AIM] score [491] (blocks 401, kills 9), player [啊吧啊吧吧] score [38] (blocks 38, kills 0) 
+Round 3 
+[Match Result]: player [划水摸鱼拉拉面] score [15] (blocks 15, kills 0), player [AIM] score [509] (blocks 429, kills 8) 
+[Match Result]: player [AIM] score [411] (blocks 351, kills 6), player [王中王] score [110] (blocks 70, kills 4) 
+[Match Result]: player [AIM] score [501] (blocks 421, kills 8), player [魔法电路全队] score [37] (blocks 27, kills 1) 
+[Match Result]: player [AIM] score [438] (blocks 358, kills 8), player [啊吧啊吧吧] score [40] (blocks 40, kills 0) 
+Round 4 
+[Match Result]: player [划水摸鱼拉拉面] score [11] (blocks 11, kills 0), player [AIM] score [515] (blocks 435, kills 8) 
+[Match Result]: player [AIM] score [499] (blocks 409, kills 9), player [魔法电路全队] score [35] (blocks 25, kills 1) 
+[Match Result]: player [AIM] score [386] (blocks 316, kills 7), player [王中王] score [137] (blocks 117, kills 2) 
+[Match Result]: player [AIM] score [485] (blocks 405, kills 8), player [啊吧啊吧吧] score [43] (blocks 43, kills 0) 
+Round 5 
+[Match Result]: player [划水摸鱼拉拉面] score [10] (blocks 10, kills 0), player [AIM] score [519] (blocks 439, kills 8) 
+[Match Result]: player [AIM] score [521] (blocks 421, kills 10), player [魔法电路全队] score [40] (blocks 20, kills 2) 
+Match Result]: player [AIM] score [337] (blocks 287, kills 5), player [王中王] score [150] (blocks 140, kills 1) 
+[Match Result]: player [AIM] score [458] (blocks 388, kills 7), player [啊吧啊吧吧] score [43] (blocks 43, kills 0) 
+########## END No.2 Judge of Day 1 ########## 
+
+########## START No.3 Judge of Day 1 ########## 
+Round 1 
+[Match Result]: player [划水摸鱼拉拉面] score [62] (blocks 32, kills 3), player [AIM] score [423] (blocks 383, kills 4) 
+[Match Result]: player [AIM] score [294] (blocks 224, kills 7), player [魔法电路全队] score [206] (blocks 176, kills 3) 
+[Match Result]: player [AIM] score [507] (blocks 437, kills 7), player [汪汪队] score [10] (blocks 10, kills 0) 
+[Match Result]: player [AIM] score [437] (blocks 387, kills 5), player [王中王] score [70] (blocks 60, kills 1) 
+[Match Result]: player [AIM] score [480] (blocks 390, kills 9), player [啊吧啊吧吧] score [50] (blocks 50, kills 0) 
+Round 2 
+[Match Result]: player [划水摸鱼拉拉面] score [106] (blocks 76, kills 3), player [AIM] score [397] (blocks 347, kills 5) 
+[Match Result]: player [AIM] score [483] (blocks 403, kills 8), player [汪汪队] score [42] (blocks 42, kills 0) 
+[Match Result]: player [AIM] score [503] (blocks 413, kills 9), player [王中王] score [34] (blocks 34, kills 0) 
+[Match Result]: player [AIM] score [497] (blocks 417, kills 8), player [魔法电路全队] score [34] (blocks 24, kills 1) 
+[Match Result]: player [AIM] score [477] (blocks 407, kills 7), player [啊吧啊吧吧] score [33] (blocks 33, kills 0) 
+Round 3 
+[Match Result]: player [AIM] score [500] (blocks 420, kills 8), player [魔法电路全队] score [27] (blocks 17, kills 1) 
+[Match Result]: player [AIM] score [516] (blocks 416, kills 10), player [汪汪队] score [11] (blocks 11, kills 0) 
+[Match Result]: player [划水摸鱼拉拉面] score [26] (blocks 6, kills 2), player [AIM] score [494] (blocks 434, kills 6) 
+[Match Result]: player [AIM] score [492] (blocks 402, kills 9), player [啊吧啊吧吧] score [32] (blocks 32, kills 0) 
+[Match Result]: player [AIM] score [409] (blocks 359, kills 5), player [王中王] score [92] (blocks 82, kills 1) 
+Round 4 
+[Match Result]: player [划水摸鱼拉拉面] score [23] (blocks 3, kills 2), player [AIM] score [451] (blocks 401, kills 5) 
+[Match Result]: player [AIM] score [520] (blocks 420, kills 10), player [王中王] score [24] (blocks 24, kills 0) 
+[Match Result]: player [AIM] score [349] (blocks 259, kills 9), player [魔法电路全队] score [72] (blocks 42, kills 3) 
+[Match Result]: player [AIM] score [524] (blocks 434, kills 9), player [汪汪队] score [4] (blocks 4, kills 0) 
+[Match Result]: player [AIM] score [505] (blocks 425, kills 8), player [啊吧啊吧吧] score [15] (blocks 15, kills 0) 
+Round 5 
+[Match Result]: player [划水摸鱼拉拉面] score [122] (blocks 92, kills 3), player [AIM] score [391] (blocks 341, kills 5) 
+[Match Result]: player [AIM] score [492] (blocks 392, kills 10), player [汪汪队] score [34] (blocks 24, kills 1) 
+[Match Result]: player [AIM] score [514] (blocks 424, kills 9), player [魔法电路全队] score [18] (blocks 18, kills 0) 
+[Match Result]: player [AIM] score [375] (blocks 315, kills 6), player [王中王] score [119] (blocks 119, kills 0) 
+[Match Result]: player [AIM] score [496] (blocks 416, kills 8), player [啊吧啊吧吧] score [34] (blocks 34, kills 0) 
+########## END No.3 Judge of Day 1 ########## 
+
+########## START No.4 Judge of Day 1 ########## 
+Round 1 
+[Match Result]: player [划水摸鱼拉拉面] score [121] (blocks 101, kills 2), player [AIM] score [390] (blocks 340, kills 5) 
+[Match Result]: player [AIM] score [505] (blocks 455, kills 5), player [ ] score [0] (blocks 0, kills 0) 
+[Match Result]: player [AIM] score [449] (blocks 369, kills 8), player [魔法电路全队] score [80] (blocks 80, kills 0) 
+[Match Result]: player [AIM] score [435] (blocks 345, kills 9), player [汪汪队] score [38] (blocks 38, kills 0) 
+[Match Result]: player [AIM] score [511] (blocks 411, kills 10), player [啊吧啊吧吧] score [4] (blocks 4, kills 0) 
+[Match Result]: player [AIM] score [374] (blocks 314, kills 6), player [王中王] score [141] (blocks 111, kills 3) 
+Round 2 
+[Match Result]: player [划水摸鱼拉拉面] score [112] (blocks 102, kills 1), player [AIM] score [382] (blocks 332, kills 5) 
+[Match Result]: player [AIM] score [476] (blocks 396, kills 8), player [啊吧啊吧吧] score [36] (blocks 26, kills 1) 
+[Match Result]: player [AIM] score [529] (blocks 429, kills 10), player [汪汪队] score [6] (blocks 6, kills 0) 
+[Match Result]: player [AIM] score [499] (blocks 449, kills 5), player [ ] score [0] (blocks 0, kills 0) 
+[Match Result]: player [AIM] score [332] (blocks 282, kills 5), player [王中王] score [167] (blocks 137, kills 3) 
+[Match Result]: player [AIM] score [482] (blocks 392, kills 9), player [魔法电路全队] score [45] (blocks 35, kills 1) 
+Round 3 
+[Match Result]: player [AIM] score [427] (blocks 347, kills 8), player [王中王] score [84] (blocks 84, kills 0) 
+[Match Result]: player [AIM] score [504] (blocks 454, kills 5), player [ ] score [0] (blocks 0, kills 0) 
+[Match Result]: player [AIM] score [500] (blocks 400, kills 10), player [汪汪队] score [33] (blocks 33, kills 0) 
+[Match Result]: player [AIM] score [475] (blocks 395, kills 8), player [魔法电路全队] score [47] (blocks 27, kills 2) 
+[Match Result]: player [AIM] score [497] (blocks 397, kills 10), player [啊吧啊吧吧] score [40] (blocks 40, kills 0) 
+[Match Result]: player [划水摸鱼拉拉面] score [249] (blocks 219, kills 3), player [AIM] score [231] (blocks 201, kills 3) 
+Round 4 
+[Match Result]: player [AIM] score [469] (blocks 369, kills 10), player [啊吧啊吧吧] score [31] (blocks 31, kills 0) 
+[Match Result]: player [划水摸鱼拉拉面] score [82] (blocks 82, kills 0), player [AIM] score [424] (blocks 364, kills 6) 
+[Match Result]: player [AIM] score [322] (blocks 262, kills 6), player [王中王] score [169] (blocks 129, kills 4) 
+[Match Result]: player [AIM] score [508] (blocks 408, kills 10), player [汪汪队] score [33] (blocks 33, kills 0) 
+[Match Result]: player [AIM] score [497] (blocks 447, kills 5), player [ ] score [0] (blocks 0, kills 0) 
+[Match Result]: player [AIM] score [476] (blocks 396, kills 8), player [魔法电路全队] score [55] (blocks 45, kills 1) 
+Round 5 
+[Match Result]: player [AIM] score [522] (blocks 422, kills 10), player [汪汪队] score [31] (blocks 21, kills 1) 
+[Match Result]: player [AIM] score [525] (blocks 425, kills 10), player [魔法电路全队] score [28] (blocks 8, kills 2) 
+[Match Result]: player [AIM] score [501] (blocks 451, kills 5), player [ ] score [0] (blocks 0, kills 0) 
+[Match Result]: player [AIM] score [396] (blocks 336, kills 6), player [王中王] score [113] (blocks 103, kills 1) 
+[Match Result]: player [AIM] score [533] (blocks 433, kills 10), player [啊吧啊吧吧] score [10] (blocks 10, kills 0) 
+[Match Result]: player [划水摸鱼拉拉面] score [112] (blocks 102, kills 1), player [AIM] score [382] (blocks 332, kills 5) 
+########## END No.4 Judge of Day 1 ########## 
+
+########## START No.5 Judge of Day 1 ########## 
+Round 1 
+[Match Result]: player [AIM] score [550] (blocks 450, kills 10), player [王中王] score [0] (blocks 0, kills 0) 
+[Match Result]: player [AIM] score [451] (blocks 391, kills 6), player [魔法电路全队] score [67] (blocks 67, kills 0) 
+[Match Result]: player [AIM] score [541] (blocks 441, kills 10), player [汪汪队] score [1] (blocks 1, kills 0) 
+[Match Result]: player [AIM] score [477] (blocks 397, kills 8), player [啊吧啊吧吧] score [64] (blocks 54, kills 1) 
+[Match Result]: player [划水摸鱼拉拉面] score [172] (blocks 152, kills 2), player [AIM] score [296] (blocks 266, kills 3) 
+[Match Result]: player [AIM] score [506] (blocks 456, kills 5), player [ ] score [0] (blocks 0, kills 0) 
+Round 2 
+[Match Result]: player [AIM] score [502] (blocks 452, kills 5), player [ ] score [0] (blocks 0, kills 0) 
+[Match Result]: player [AIM] score [466] (blocks 376, kills 9), player [汪汪队] score [63] (blocks 63, kills 0) 
+[Match Result]: player [划水摸鱼拉拉面] score [193] (blocks 173, kills 2), player [AIM] score [299] (blocks 259, kills 4) 
+[Match Result]: player [AIM] score [537] (blocks 437, kills 10), player [啊吧啊吧吧] score [11] (blocks 11, kills 0) 
+[Match Result]: player [AIM] score [465] (blocks 385, kills 8), player [魔法电路全队] score [45] (blocks 45, kills 0) 
+[Match Result]: player [AIM] score [313] (blocks 253, kills 6), player [王中王] score [208] (blocks 168, kills 4) 
+Round 3 
+[Match Result]: player [AIM] score [519] (blocks 439, kills 8), player [魔法电路全队] score [22] (blocks 12, kills 1) 
+[Match Result]: player [划水摸鱼拉拉面] score [193] (blocks 173, kills 2), player [AIM] score [299] (blocks 259, kills 4) 
+[Match Result]: player [AIM] score [497] (blocks 447, kills 5), player [ ] score [0] (blocks 0, kills 0) 
+[Match Result]: player [AIM] score [499] (blocks 409, kills 9), player [汪汪队] score [25] (blocks 25, kills 0) 
+[Match Result]: player [AIM] score [231] (blocks 181, kills 5), player [王中王] score [289] (blocks 239, kills 5) 
+[Match Result]: player [AIM] score [517] (blocks 437, kills 8), player [啊吧啊吧吧] score [6] (blocks 6, kills 0) 
+Round 4 
+[Match Result]: player [AIM] score [367] (blocks 277, kills 9), player [魔法电路全队] score [87] (blocks 67, kills 2) 
+[Match Result]: player [AIM] score [260] (blocks 220, kills 4), player [王中王] score [240] (blocks 190, kills 5) 
+[Match Result]: player [划水摸鱼拉拉面] score [99] (blocks 99, kills 0), player [AIM] score [393] (blocks 343, kills 5) 
+[Match Result]: player [AIM] score [485] (blocks 405, kills 8), player [汪汪队] score [34] (blocks 34, kills 0) 
+[Match Result]: player [AIM] score [536] (blocks 436, kills 10), player [啊吧啊吧吧] score [2] (blocks 2, kills 0) 
+[Match Result]: player [AIM] score [496] (blocks 446, kills 5), player [ ] score [0] (blocks 0, kills 0) 
+Round 5 
+[Match Result]: player [AIM] score [407] (blocks 357, kills 5), player [王中王] score [103] (blocks 83, kills 2) 
+[Match Result]: player [划水摸鱼拉拉面] score [35] (blocks 35, kills 0), player [AIM] score [475] (blocks 405, kills 7) 
+[Match Result]: player [AIM] score [499] (blocks 449, kills 5), player [ ] score [0] (blocks 0, kills 0) 
+[Match Result]: player [AIM] score [432] (blocks 362, kills 7), player [魔法电路全队] score [82] (blocks 52, kills 3) 
+[Match Result]: player [AIM] score [540] (blocks 440, kills 10), player [汪汪队] score [8] (blocks 8, kills 0) 
+[Match Result]: player [AIM] score [504] (blocks 424, kills 8), player [啊吧啊吧吧] score [12] (blocks 12, kills 0) 
+########## END No.5 Judge of Day 1 ########## 
+
+########## START No.1 Judge of Day 2 ########## 
+Round 1 
+[Match Result]: player [AIM] score [544] (blocks 444, kills 10), player [王中王] score [0] (blocks 0, kills 0) 
+[Match Result]: player [AIM] score [433] (blocks 343, kills 9), player [魔法电路全队] score [108] (blocks 88, kills 2) 
+[Match Result]: player [AIM] score [395] (blocks 315, kills 8), player [汪汪队] score [116] (blocks 96, kills 2) 
+[Match Result]: player [划水摸鱼拉拉面] score [203] (blocks 183, kills 2), player [AIM] score [286] (blocks 246, kills 4) 
+[Match Result]: player [AIM] score [448] (blocks 378, kills 7), player [啊吧啊吧吧] score [68] (blocks 68, kills 0) 
+[Match Result]: player [AIM] score [534] (blocks 434, kills 10), player [ ] score [10] (blocks 0, kills 1) 
+Round 2 
+[Match Result]: player [AIM] score [539] (blocks 439, kills 10), player [啊吧啊吧吧] score [4] (blocks 4, kills 0) 
+[Match Result]: player [AIM] score [380] (blocks 310, kills 7), player [汪汪队] score [146] (blocks 116, kills 3) 
+[Match Result]: player [AIM] score [355] (blocks 295, kills 6), player [王中王] score [150] (blocks 120, kills 3) 
+[Match Result]: player [AIM] score [476] (blocks 416, kills 6), player [ ] score [38] (blocks 18, kills 2) 
+[Match Result]: player [划水摸鱼拉拉面] score [238] (blocks 198, kills 4), player [AIM] score [272] (blocks 242, kills 3) 
+[Match Result]: player [AIM] score [307] (blocks 237, kills 7), player [魔法电路全队] score [178] (blocks 158, kills 2) 
+Round 3 
+[Match Result]: player [AIM] score [423] (blocks 323, kills 10), player [魔法电路全队] score [55] (blocks 55, kills 0) 
+[Match Result]: player [AIM] score [300] (blocks 240, kills 6), player [汪汪队] score [195] (blocks 155, kills 4) 
+[Match Result]: player [划水摸鱼拉拉面] score [9] (blocks 9, kills 0), player [AIM] score [499] (blocks 429, kills 7) 
+[Match Result]: player [AIM] score [487] (blocks 407, kills 8), player [ ] score [35] (blocks 15, kills 2) 
+[Match Result]: player [AIM] score [185] (blocks 175, kills 1), player [王中王] score [316] (blocks 276, kills 4) 
+[Match Result]: player [AIM] score [536] (blocks 436, kills 10), player [啊吧啊吧吧] score [13] (blocks 13, kills 0) 
+Round 4 
+[Match Result]: player [AIM] score [448] (blocks 388, kills 6), player [魔法电路全队] score [64] (blocks 34, kills 3) 
+[Match Result]: player [划水摸鱼拉拉面] score [85] (blocks 75, kills 1), player [AIM] score [417] (blocks 357, kills 6) 
+[Match Result]: player [AIM] score [430] (blocks 350, kills 8), player [汪汪队] score [71] (blocks 61, kills 1) 
+[Match Result]: player [AIM] score [485] (blocks 405, kills 8), player [王中王] score [43] (blocks 33, kills 1) 
+[Match Result]: player [AIM] score [530] (blocks 430, kills 10), player [ ] score [10] (blocks 0, kills 1) 
+[Match Result]: player [AIM] score [486] (blocks 406, kills 8), player [啊吧啊吧吧] score [23] (blocks 23, kills 0) 
+Round 5 
+[Match Result]: player [划水摸鱼拉拉面] score [83] (blocks 73, kills 1), player [AIM] score [422] (blocks 362, kills 6) 
+[Match Result]: player [AIM] score [378] (blocks 298, kills 8), player [汪汪队] score [125] (blocks 115, kills 1) 
+[Match Result]: player [AIM] score [453] (blocks 373, kills 8), player [啊吧啊吧吧] score [74] (blocks 74, kills 0) 
+[Match Result]: player [AIM] score [512] (blocks 432, kills 8), player [魔法电路全队] score [6] (blocks 6, kills 0) 
+[Match Result]: player [AIM] score [479] (blocks 399, kills 8), player [王中王] score [69] (blocks 49, kills 2) 
+[Match Result]: player [AIM] score [430] (blocks 390, kills 4), player [ ] score [67] (blocks 27, kills 4) 
+########## END No.1 Judge of Day 2 ########## 
+
+########## START No.2 Judge of Day 2 ########## 
+Round 1 
+[Match Error]: server s17 exited '139', client AIM ExitCode: '1', client 汪汪队 ExitCode: '1' 
+[Match Result]: player [AIM] score [531] (blocks 431, kills 10), player [ ] score [12] (blocks 2, kills 1) 
+[Match Result]: player [AIM] score [452] (blocks 372, kills 8), player [啊吧啊吧吧] score [77] (blocks 77, kills 0) 
+[Match Result]: player [划水摸鱼拉拉面] score [176] (blocks 156, kills 2), player [AIM] score [333] (blocks 283, kills 5) 
+[Match Result]: player [AIM] score [518] (blocks 448, kills 7), player [王中王] score [0] (blocks 0, kills 0) 
+[Match Result]: player [AIM] score [499] (blocks 419, kills 8), player [魔法电路全队] score [31] (blocks 21, kills 1) 
+Round 2 
+[Match Result]: player [AIM] score [549] (blocks 449, kills 10), player [王中王] score [0] (blocks 0, kills 0) 
+[Match Result]: player [AIM] score [490] (blocks 400, kills 9), player [魔法电路全队] score [41] (blocks 41, kills 0) 
+[Match Result]: player [AIM] score [485] (blocks 405, kills 8), player [汪汪队] score [55] (blocks 35, kills 2) 
+[Match Result]: player [AIM] score [504] (blocks 414, kills 9), player [啊吧啊吧吧] score [31] (blocks 21, kills 1) 
+[Match Result]: player [划水摸鱼拉拉面] score [255] (blocks 215, kills 4), player [AIM] score [234] (blocks 204, kills 3) 
+[Match Result]: player [AIM] score [469] (blocks 369, kills 10), player [ ] score [21] (blocks 1, kills 2) 
+Round 3 
+[Match Result]: player [AIM] score [422] (blocks 332, kills 9), player [汪汪队] score [77] (blocks 57, kills 2) 
+[Match Result]: player [AIM] score [534] (blocks 434, kills 10), player [啊吧啊吧吧] score [2] (blocks 2, kills 0) 
+[Match Result]: player [划水摸鱼拉拉面] score [238] (blocks 198, kills 4), player [AIM] score [259] (blocks 229, kills 3) 
+[Match Result]: player [AIM] score [487] (blocks 407, kills 8), player [魔法电路全队] score [46] (blocks 36, kills 1) 
+[Match Result]: player [AIM] score [297] (blocks 257, kills 4), player [王中王] score [219] (blocks 179, kills 4) 
+[Match Result]: player [AIM] score [497] (blocks 417, kills 8), player [ ] score [10] (blocks 0, kills 1) 
+Round 4 
+[Match Result]: player [AIM] score [488] (blocks 388, kills 10), player [魔法电路全队] score [45] (blocks 45, kills 0) 
+[Match Result]: player [AIM] score [450] (blocks 370, kills 8), player [汪汪队] score [45] (blocks 35, kills 1) 
+[Match Result]: player [AIM] score [504] (blocks 444, kills 6), player [ ] score [20] (blocks 0, kills 2) 
+[Match Result]: player [划水摸鱼拉拉面] score [238] (blocks 198, kills 4), player [AIM] score [272] (blocks 242, kills 3) 
+[Match Result]: player [AIM] score [539] (blocks 439, kills 10), player [王中王] score [0] (blocks 0, kills 0) 
+[Match Result]: player [AIM] score [465] (blocks 385, kills 8), player [啊吧啊吧吧] score [46] (blocks 46, kills 0) 
+Round 5 
+[Match Result]: player [AIM] score [194] (blocks 164, kills 3), player [王中王] score [340] (blocks 280, kills 6) 
+[Match Result]: player [划水摸鱼拉拉面] score [121] (blocks 101, kills 2), player [AIM] score [372] (blocks 332, kills 4) 
+[Match Result]: player [AIM] score [533] (blocks 433, kills 10), player [啊吧啊吧吧] score [7] (blocks 7, kills 0) 
+[Match Result]: player [AIM] score [470] (blocks 390, kills 8), player [汪汪队] score [58] (blocks 48, kills 1) 
+[Match Result]: player [AIM] score [507] (blocks 427, kills 8), player [魔法电路全队] score [33] (blocks 13, kills 2) 
+[Match Result]: player [AIM] score [544] (blocks 444, kills 10), player [ ] score [10] (blocks 0, kills 1) 
+########## END No.2 Judge of Day 2 ########## 
+
+########## START No.3 Judge of Day 2 ########## 
+Round 1 
+[Match Result]: player [AIM] score [440] (blocks 380, kills 6), player [汪汪队] score [71] (blocks 51, kills 2) 
+[Match Result]: player [划水摸鱼拉拉面] score [294] (blocks 254, kills 4), player [AIM] score [229] (blocks 199, kills 3) 
+[Match Result]: player [AIM] score [488] (blocks 408, kills 8), player [啊吧啊吧吧] score [46] (blocks 36, kills 1) 
+[Match Result]: player [AIM] score [544] (blocks 444, kills 10), player [魔法电路全队] score [0] (blocks 0, kills 0) 
+[Match Result]: player [AIM] score [544] (blocks 444, kills 10), player [王中王] score [0] (blocks 0, kills 0) 
+[Match Result]: player [AIM] score [522] (blocks 422, kills 10), player [ ] score [10] (blocks 0, kills 1) 
+Round 2 
+[Match Result]: player [划水摸鱼拉拉面] score [296] (blocks 256, kills 4), player [AIM] score [170] (blocks 140, kills 3) 
+[Match Result]: player [AIM] score [551] (blocks 451, kills 10), player [王中王] score [0] (blocks 0, kills 0) 
+[Match Result]: player [AIM] score [186] (blocks 126, kills 6), player [汪汪队] score [347] (blocks 297, kills 5) 
+[Match Result]: player [AIM] score [547] (blocks 447, kills 10), player [魔法电路全队] score [0] (blocks 0, kills 0) 
+[Match Result]: player [AIM] score [533] (blocks 443, kills 9), player [啊吧啊吧吧] score [9] (blocks 9, kills 0) 
+[Match Result]: player [AIM] score [514] (blocks 434, kills 8), player [ ] score [10] (blocks 0, kills 1) 
+Round 3 
+[Match Result]: player [划水摸鱼拉拉面] score [431] (blocks 371, kills 6), player [AIM] score [98] (blocks 78, kills 2) 
+[Match Result]: player [AIM] score [492] (blocks 432, kills 6), player [ ] score [26] (blocks 6, kills 2) 
+[Match Result]: player [AIM] score [362] (blocks 302, kills 6), player [汪汪队] score [147] (blocks 127, kills 2) 
+[Match Result]: player [AIM] score [542] (blocks 442, kills 10), player [王中王] score [1] (blocks 1, kills 0) 
+[Match Result]: player [AIM] score [551] (blocks 451, kills 10), player [魔法电路全队] score [0] (blocks 0, kills 0) 
+[Match Result]: player [AIM] score [532] (blocks 432, kills 10), player [啊吧啊吧吧] score [6] (blocks 6, kills 0) 
+Round 4 
+[Match Result]: player [划水摸鱼拉拉面] score [431] (blocks 371, kills 6), player [AIM] score [98] (blocks 78, kills 2) 
+[Match Result]: player [AIM] score [543] (blocks 443, kills 10), player [啊吧啊吧吧] score [10] (blocks 0, kills 1) 
+[Match Result]: player [AIM] score [543] (blocks 443, kills 10), player [魔法电路全队] score [0] (blocks 0, kills 0) 
+[Match Result]: player [AIM] score [473] (blocks 413, kills 6), player [ ] score [42] (blocks 22, kills 2) 
+[Match Result]: player [AIM] score [448] (blocks 368, kills 8), player [汪汪队] score [61] (blocks 51, kills 1) 
+Round 5 
+[Match Result]: player [AIM] score [488] (blocks 418, kills 7), player [啊吧啊吧吧] score [43] (blocks 23, kills 2) 
+[Match Result]: player [AIM] score [503] (blocks 403, kills 10), player [王中王] score [0] (blocks 0, kills 0) 
+[Match Result]: player [划水摸鱼拉拉面] score [391] (blocks 331, kills 6), player [AIM] score [129] (blocks 109, kills 2) 
+[Match Result]: player [AIM] score [476] (blocks 416, kills 6), player [ ] score [40] (blocks 20, kills 2) 
+[Match Result]: player [AIM] score [550] (blocks 450, kills 10), player [魔法电路全队] score [0] (blocks 0, kills 0) 
+########## END No.3 Judge of Day 2 ########## 
+
+########## START No.4 Judge of Day 2 ########## 
+Round 1 
+[Match Result]: player [AIM] score [393] (blocks 313, kills 8), player [汪汪队] score [122] (blocks 112, kills 1) 
+[Match Result]: player [AIM] score [493] (blocks 393, kills 10), player [ ] score [10] (blocks 0, kills 1) 
+[Match Result]: player [AIM] score [548] (blocks 448, kills 10), player [魔法电路全队] score [0] (blocks 0, kills 0) 
+[Match Result]: player [AIM] score [253] (blocks 203, kills 5), player [王中王] score [262] (blocks 232, kills 3) 
+[Match Result]: player [划水摸鱼拉拉面] score [305] (blocks 265, kills 4), player [AIM] score [199] (blocks 179, kills 2) 
+[Match Result]: player [AIM] score [533] (blocks 433, kills 10), player [啊吧啊吧吧] score [8] (blocks 8, kills 0) 
+Round 2 
+[Match Result]: player [AIM] score [543] (blocks 443, kills 10), player [魔法电路全队] score [0] (blocks 0, kills 0) 
+[Match Result]: player [AIM] score [387] (blocks 327, kills 6), player [汪汪队] score [118] (blocks 98, kills 2) 
+[Match Result]: player [AIM] score [482] (blocks 382, kills 10), player [啊吧啊吧吧] score [18] (blocks 18, kills 0) 
+[Match Result]: player [划水摸鱼拉拉面] score [326] (blocks 266, kills 6), player [AIM] score [219] (blocks 179, kills 4) 
+[Match Result]: player [AIM] score [540] (blocks 440, kills 10), player [王中王] score [3] (blocks 3, kills 0) 
+[Match Result]: player [AIM] score [504] (blocks 444, kills 6), player [ ] score [25] (blocks 5, kills 2) 
+Round 3 
+[Match Result]: player [AIM] score [537] (blocks 437, kills 10), player [啊吧啊吧吧] score [7] (blocks 7, kills 0) 
+[Match Result]: player [AIM] score [534] (blocks 434, kills 10), player [ ] score [22] (blocks 12, kills 1) 
+[Match Result]: player [AIM] score [542] (blocks 442, kills 10), player [魔法电路全队] score [0] (blocks 0, kills 0) 
+[Match Result]: player [AIM] score [437] (blocks 347, kills 9), player [汪汪队] score [86] (blocks 66, kills 2) 
+[Match Result]: player [AIM] score [533] (blocks 443, kills 9), player [王中王] score [0] (blocks 0, kills 0) 
+[Match Result]: player [划水摸鱼拉拉面] score [32] (blocks 32, kills 0), player [AIM] score [458] (blocks 398, kills 6) 
+Round 4 
+[Match Result]: player [划水摸鱼拉拉面] score [332] (blocks 272, kills 6), player [AIM] score [223] (blocks 173, kills 5) 
+[Match Result]: player [AIM] score [543] (blocks 443, kills 10), player [魔法电路全队] score [0] (blocks 0, kills 0) 
+[Match Result]: player [AIM] score [541] (blocks 441, kills 10), player [ ] score [10] (blocks 0, kills 1) 
+[Match Result]: player [AIM] score [525] (blocks 425, kills 10), player [啊吧啊吧吧] score [3] (blocks 3, kills 0) 
+[Match Result]: player [AIM] score [343] (blocks 303, kills 4), player [王中王] score [161] (blocks 131, kills 3) 
+[Match Result]: player [AIM] score [439] (blocks 349, kills 9), player [汪汪队] score [67] (blocks 47, kills 2) 
+Round 5 
+[Match Result]: player [AIM] score [555] (blocks 455, kills 10), player [魔法电路全队] score [0] (blocks 0, kills 0) 
+[Match Result]: player [AIM] score [551] (blocks 451, kills 10), player [王中王] score [0] (blocks 0, kills 0) 
+[Match Result]: player [划水摸鱼拉拉面] score [301] (blocks 261, kills 4), player [AIM] score [204] (blocks 174, kills 3) 
+[Match Result]: player [AIM] score [447] (blocks 367, kills 8), player [汪汪队] score [61] (blocks 51, kills 1) 
+[Match Result]: player [AIM] score [506] (blocks 396, kills 11), player [啊吧啊吧吧] score [14] (blocks 14, kills 0) 
+[Match Result]: player [AIM] score [514] (blocks 434, kills 8), player [ ] score [21] (blocks 1, kills 2) 
+########## END No.4 Judge of Day 2 ########## 
+
+########## START No.5 Judge of Day 2 ########## 
+Round 1 
+[Match Result]: player [AIM] score [502] (blocks 422, kills 8), player [ ] score [17] (blocks 7, kills 1) 
+[Match Result]: player [AIM] score [436] (blocks 356, kills 8), player [汪汪队] score [62] (blocks 32, kills 3) 
+[Match Result]: player [划水摸鱼拉拉面] score [74] (blocks 64, kills 1), player [AIM] score [432] (blocks 382, kills 5) 
+[Match Result]: player [AIM] score [545] (blocks 445, kills 10), player [王中王] score [0] (blocks 0, kills 0) 
+[Match Result]: player [AIM] score [531] (blocks 431, kills 10), player [魔法电路全队] score [0] (blocks 0, kills 0) 
+[Match Result]: player [AIM] score [532] (blocks 432, kills 10), player [啊吧啊吧吧] score [3] (blocks 3, kills 0) 
+Round 2 
+[Match Result]: player [AIM] score [132] (blocks 112, kills 2), player [王中王] score [335] (blocks 295, kills 4) 
+[Match Result]: player [划水摸鱼拉拉面] score [378] (blocks 308, kills 7), player [AIM] score [178] (blocks 138, kills 4) 
+[Match Result]: player [AIM] score [438] (blocks 378, kills 6), player [啊吧啊吧吧] score [66] (blocks 66, kills 0) 
+[Match Result]: player [AIM] score [549] (blocks 449, kills 10), player [魔法电路全队] score [0] (blocks 0, kills 0) 
+[Match Result]: player [AIM] score [494] (blocks 434, kills 6), player [ ] score [24] (blocks 14, kills 1) 
+[Match Result]: player [AIM] score [333] (blocks 273, kills 6), player [汪汪队] score [189] (blocks 169, kills 2) 
+Round 3 
+[Match Result]: player [AIM] score [514] (blocks 434, kills 8), player [啊吧啊吧吧] score [29] (blocks 9, kills 2) 
+[Match Result]: player [划水摸鱼拉拉面] score [104] (blocks 94, kills 1), player [AIM] score [414] (blocks 344, kills 7) 
+[Match Result]: player [AIM] score [369] (blocks 299, kills 7), player [汪汪队] score [143] (blocks 123, kills 2) 
+[Match Result]: player [AIM] score [544] (blocks 444, kills 10), player [魔法电路全队] score [0] (blocks 0, kills 0) 
+[Match Result]: player [AIM] score [391] (blocks 321, kills 7), player [王中王] score [110] (blocks 70, kills 4) 
+[Match Result]: player [AIM] score [503] (blocks 443, kills 6), player [ ] score [21] (blocks 1, kills 2) 
+Round 4 
+[Match Result]: player [AIM] score [546] (blocks 446, kills 10), player [魔法电路全队] score [0] (blocks 0, kills 0) 
+[Match Result]: player [AIM] score [377] (blocks 307, kills 7), player [汪汪队] score [142] (blocks 122, kills 2) 
+[Match Result]: player [划水摸鱼拉拉面] score [301] (blocks 261, kills 4), player [AIM] score [204] (blocks 174, kills 3) 
+[Match Result]: player [AIM] score [553] (blocks 453, kills 10), player [王中王] score [3] (blocks 3, kills 0) 
+[Match Result]: player [AIM] score [533] (blocks 433, kills 10), player [啊吧啊吧吧] score [7] (blocks 7, kills 0) 
+[Match Result]: player [AIM] score [454] (blocks 354, kills 10), player [ ] score [4] (blocks 4, kills 0) 
+Round 5 
+[Match Error]: server s17 exited '139', client AIM ExitCode: '1', client 汪汪队 ExitCode: '1' 
+[Match Result]: player [AIM] score [496] (blocks 436, kills 6), player [ ] score [16] (blocks 6, kills 1) 
+[Match Result]: player [AIM] score [551] (blocks 451, kills 10), player [魔法电路全队] score [0] (blocks 0, kills 0) 
+[Match Result]: player [AIM] score [516] (blocks 416, kills 10), player [啊吧啊吧吧] score [11] (blocks 1, kills 1) 
+[Match Result]: player [划水摸鱼拉拉面] score [408] (blocks 328, kills 8), player [AIM] score [157] (blocks 117, kills 4) 
+[Match Result]: player [AIM] score [407] (blocks 337, kills 7), player [王中王] score [114] (blocks 104, kills 1) 
+########## END No.5 Judge of Day 2 ########## 
+
+########## START No.1 Judge of Day 3 ########## 
+Round 1 
+[Match Result]: player [AIM] score [553] (blocks 453, kills 10), player [王中王] score [0] (blocks 0, kills 0) 
+[Match Result]: player [AIM] score [522] (blocks 442, kills 8), player [ ] score [10] (blocks 0, kills 1) 
+[Match Result]: player [划水摸鱼拉拉面] score [378] (blocks 308, kills 7), player [AIM] score [178] (blocks 138, kills 4) 
+[Match Result]: player [AIM] score [507] (blocks 427, kills 8), player [汪汪队] score [32] (blocks 12, kills 2) 
+[Match Result]: player [AIM] score [502] (blocks 402, kills 10), player [魔法电路全队] score [15] (blocks 15, kills 0) 
+[Match Result]: player [AIM] score [485] (blocks 405, kills 8), player [啊吧啊吧吧] score [39] (blocks 39, kills 0) 
+Round 2 
+[Match Result]: player [AIM] score [523] (blocks 433, kills 9), player [啊吧啊吧吧] score [16] (blocks 6, kills 1) 
+[Match Result]: player [划水摸鱼拉拉面] score [332] (blocks 272, kills 6), player [AIM] score [223] (blocks 173, kills 5) 
+[Match Result]: player [AIM] score [537] (blocks 437, kills 10), player [ ] score [10] (blocks 0, kills 1) 
+[Match Result]: player [AIM] score [510] (blocks 410, kills 10), player [魔法电路全队] score [8] (blocks 8, kills 0) 
+[Match Result]: player [AIM] score [436] (blocks 376, kills 6), player [汪汪队] score [87] (blocks 67, kills 2) 
+[Match Result]: player [AIM] score [538] (blocks 438, kills 10), player [王中王] score [0] (blocks 0, kills 0) 
+Round 3 
+[Match Result]: player [AIM] score [513] (blocks 413, kills 10), player [魔法电路全队] score [5] (blocks 5, kills 0) 
+[Match Result]: player [AIM] score [542] (blocks 442, kills 10), player [王中王] score [0] (blocks 0, kills 0) 
+[Match Result]: player [划水摸鱼拉拉面] score [332] (blocks 272, kills 6), player [AIM] score [223] (blocks 173, kills 5) 
+[Match Result]: player [AIM] score [522] (blocks 442, kills 8), player [啊吧啊吧吧] score [2] (blocks 2, kills 0) 
+[Match Result]: player [AIM] score [534] (blocks 444, kills 9), player [汪汪队] score [10] (blocks 0, kills 1) 
+[Match Result]: player [AIM] score [515] (blocks 435, kills 8), player [ ] score [12] (blocks 2, kills 1) 
+Round 4 
+[Match Result]: player [划水摸鱼拉拉面] score [326] (blocks 266, kills 6), player [AIM] score [219] (blocks 179, kills 4) 
+[Match Result]: player [AIM] score [548] (blocks 448, kills 10), player [王中王] score [0] (blocks 0, kills 0) 
+[Match Result]: player [AIM] score [507] (blocks 407, kills 10), player [魔法电路全队] score [10] (blocks 10, kills 0) 
+[Match Result]: player [AIM] score [510] (blocks 440, kills 7), player [汪汪队] score [29] (blocks 9, kills 2) 
+[Match Result]: player [AIM] score [467] (blocks 377, kills 9), player [啊吧啊吧吧] score [51] (blocks 51, kills 0) 
+[Match Result]: player [AIM] score [539] (blocks 439, kills 10), player [ ] score [10] (blocks 0, kills 1) 
+Round 5 
+[Match Result]: player [AIM] score [523] (blocks 423, kills 10), player [王中王] score [1] (blocks 1, kills 0) 
+[Match Result]: player [划水摸鱼拉拉面] score [301] (blocks 261, kills 4), player [AIM] score [204] (blocks 174, kills 3) 
+[Match Result]: player [AIM] score [510] (blocks 410, kills 10), player [魔法电路全队] score [7] (blocks 7, kills 0) 
+[Match Result]: player [AIM] score [520] (blocks 440, kills 8), player [汪汪队] score [21] (blocks 1, kills 2) 
+[Match Result]: player [AIM] score [514] (blocks 434, kills 8), player [ ] score [21] (blocks 1, kills 2) 
+########## END No.1 Judge of Day 3 ########## 
+
+########## START No.2 Judge of Day 3 ########## 
+Round 1 
+[Match Result]: player [AIM] score [542] (blocks 442, kills 10), player [汪汪队] score [10] (blocks 0, kills 1) 
+[Match Result]: player [AIM] score [540] (blocks 440, kills 10), player [王中王] score [1] (blocks 1, kills 0) 
+[Match Result]: player [划水摸鱼拉拉面] score [301] (blocks 261, kills 4), player [AIM] score [204] (blocks 174, kills 3) 
+[Match Result]: player [AIM] score [514] (blocks 414, kills 10), player [魔法电路全队] score [3] (blocks 3, kills 0) 
+[Match Result]: player [AIM] score [439] (blocks 359, kills 8), player [啊吧啊吧吧] score [64] (blocks 54, kills 1) 
+[Match Result]: player [AIM] score [535] (blocks 435, kills 10), player [ ] score [10] (blocks 0, kills 1) 
+Round 2 
+[Match Result]: player [AIM] score [522] (blocks 442, kills 8), player [汪汪队] score [21] (blocks 1, kills 2) 
+[Match Result]: player [划水摸鱼拉拉面] score [278] (blocks 238, kills 4), player [AIM] score [248] (blocks 208, kills 4) 
+[Match Result]: player [AIM] score [513] (blocks 413, kills 10), player [王中王] score [0] (blocks 0, kills 0) 
+[Match Result]: player [AIM] score [506] (blocks 406, kills 10), player [魔法电路全队] score [12] (blocks 12, kills 0) 
+[Match Result]: player [AIM] score [472] (blocks 392, kills 8), player [啊吧啊吧吧] score [29] (blocks 29, kills 0) 
+[Match Result]: player [AIM] score [517] (blocks 437, kills 8), player [ ] score [20] (blocks 0, kills 2) 
+Round 3 
+[Match Result]: player [AIM] score [506] (blocks 406, kills 10), player [魔法电路全队] score [11] (blocks 11, kills 0) 
+[Match Result]: player [AIM] score [547] (blocks 447, kills 10), player [汪汪队] score [10] (blocks 0, kills 1) 
+[Match Result]: player [划水摸鱼拉拉面] score [50] (blocks 50, kills 0), player [AIM] score [460] (blocks 400, kills 6) 
+[Match Result]: player [AIM] score [548] (blocks 448, kills 10), player [ ] score [0] (blocks 0, kills 0) 
+[Match Result]: player [AIM] score [516] (blocks 416, kills 10), player [啊吧啊吧吧] score [3] (blocks 3, kills 0) 
+[Match Result]: player [AIM] score [548] (blocks 448, kills 10), player [王中王] score [0] (blocks 0, kills 0) 
+Round 4 
+[Match Result]: player [划水摸鱼拉拉面] score [305] (blocks 265, kills 4), player [AIM] score [199] (blocks 179, kills 2) 
+[Match Result]: player [AIM] score [482] (blocks 402, kills 8), player [汪汪队] score [53] (blocks 33, kills 2) 
+[Match Result]: player [AIM] score [546] (blocks 446, kills 10), player [王中王] score [0] (blocks 0, kills 0) 
+[Match Result]: player [AIM] score [539] (blocks 439, kills 10), player [啊吧啊吧吧] score [10] (blocks 0, kills 1) 
+[Match Result]: player [AIM] score [513] (blocks 413, kills 10), player [魔法电路全队] score [5] (blocks 5, kills 0) 
+[Match Result]: player [AIM] score [499] (blocks 399, kills 10), player [ ] score [0] (blocks 0, kills 0) 
+Round 5 
+[Match Result]: player [划水摸鱼拉拉面] score [334] (blocks 284, kills 5), player [AIM] score [175] (blocks 145, kills 3) 
+[Match Result]: player [AIM] score [545] (blocks 445, kills 10), player [王中王] score [0] (blocks 0, kills 0) 
+[Match Result]: player [AIM] score [509] (blocks 409, kills 10), player [魔法电路全队] score [11] (blocks 11, kills 0) 
+[Match Result]: player [AIM] score [510] (blocks 440, kills 7), player [汪汪队] score [23] (blocks 3, kills 2) 
+[Match Result]: player [AIM] score [536] (blocks 436, kills 10), player [ ] score [10] (blocks 0, kills 1) 
+[Match Result]: player [AIM] score [514] (blocks 414, kills 10), player [啊吧啊吧吧] score [34] (blocks 34, kills 0) 
+########## END No.2 Judge of Day 3 ##########
+
+########## START No.3 Judge of Day 3 ########## 
+Round 1 
+[Match Result]: player [AIM] score [537] (blocks 437, kills 10), player [汪汪队] score [10] (blocks 0, kills 1) 
+[Match Result]: player [AIM] score [496] (blocks 396, kills 10), player [魔法电路全队] score [23] (blocks 23, kills 0) 
+[Match Result]: player [AIM] score [484] (blocks 404, kills 8), player [啊吧啊吧吧] score [50] (blocks 40, kills 1) 
+[Match Result]: player [AIM] score [542] (blocks 442, kills 10), player [ ] score [10] (blocks 0, kills 1) 
+[Match Result]: player [AIM] score [98] (blocks 78, kills 2), player [王中王] score [474] (blocks 384, kills 9) 
+[Match Result]: player [划水摸鱼拉拉面] score [64] (blocks 54, kills 1), player [AIM] score [452] (blocks 382, kills 7) 
+Round 2 
+[Match Result]: player [划水摸鱼拉拉面] score [189] (blocks 159, kills 3), player [AIM] score [303] (blocks 273, kills 3) 
+[Match Result]: player [AIM] score [507] (blocks 407, kills 10), player [魔法电路全队] score [10] (blocks 10, kills 0) 
+[Match Result]: player [AIM] score [428] (blocks 358, kills 7), player [王中王] score [93] (blocks 83, kills 1) 
+[Match Result]: player [AIM] score [507] (blocks 417, kills 9), player [啊吧啊吧吧] score [32] (blocks 32, kills 0) 
+[Match Result]: player [AIM] score [500] (blocks 440, kills 6), player [汪汪队] score [28] (blocks 8, kills 2) 
+[Match Result]: player [AIM] score [541] (blocks 441, kills 10), player [ ] score [10] (blocks 0, kills 1) 
+Round 3 
+[Match Result]: player [AIM] score [468] (blocks 388, kills 8), player [王中王] score [55] (blocks 55, kills 0) 
+[Match Result]: player [AIM] score [519] (blocks 439, kills 8), player [汪汪队] score [23] (blocks 3, kills 2) 
+[Match Result]: player [划水摸鱼拉拉面] score [274] (blocks 244, kills 3), player [AIM] score [233] (blocks 193, kills 4) 
+[Match Result]: player [AIM] score [496] (blocks 396, kills 10), player [魔法电路全队] score [23] (blocks 23, kills 0) 
+[Match Result]: player [AIM] score [491] (blocks 421, kills 7), player [啊吧啊吧吧] score [33] (blocks 33, kills 0) 
+[Match Result]: player [AIM] score [531] (blocks 431, kills 10), player [ ] score [10] (blocks 0, kills 1) 
+Round 4 
+[Match Result]: player [划水摸鱼拉拉面] score [76] (blocks 76, kills 0), player [AIM] score [415] (blocks 375, kills 4) 
+[Match Result]: player [AIM] score [517] (blocks 417, kills 10), player [魔法电路全队] score [0] (blocks 0, kills 0) 
+[Match Result]: player [AIM] score [126] (blocks 76, kills 5), player [王中王] score [425] (blocks 365, kills 6) 
+[Match Result]: player [AIM] score [508] (blocks 408, kills 10), player [啊吧啊吧吧] score [26] (blocks 16, kills 1) 
+[Match Result]: player [AIM] score [482] (blocks 382, kills 10), player [汪汪队] score [10] (blocks 0, kills 1) 
+[Match Result]: player [AIM] score [544] (blocks 444, kills 10), player [ ] score [10] (blocks 0, kills 1) 
+Round 5 
+[Match Result]: player [AIM] score [506] (blocks 406, kills 10), player [魔法电路全队] score [12] (blocks 12, kills 0) 
+[Match Result]: player [划水摸鱼拉拉面] score [274] (blocks 244, kills 3), player [AIM] score [233] (blocks 193, kills 4) 
+[Match Result]: player [AIM] score [251] (blocks 181, kills 7), player [王中王] score [262] (blocks 222, kills 4) 
+[Match Result]: player [AIM] score [531] (blocks 431, kills 10), player [ ] score [0] (blocks 0, kills 0) 
+[Match Result]: player [AIM] score [423] (blocks 363, kills 6), player [啊吧啊吧吧] score [80] (blocks 80, kills 0) 
+[Match Result]: player [AIM] score [462] (blocks 382, kills 8), player [汪汪队] score [46] (blocks 26, kills 2) 
+########## END No.3 Judge of Day 3 ##########
+
+########## START No.4 Judge of Day 3 ########## 
+Round 1 
+[Match Result]: player [AIM] score [506] (blocks 406, kills 10), player [魔法电路全队] score [10] (blocks 10, kills 0) 
+[Match Result]: player [AIM] score [262] (blocks 202, kills 6), player [汪汪队] score [272] (blocks 232, kills 4) 
+[Match Result]: player [划水摸鱼拉拉面] score [217] (blocks 207, kills 1), player [AIM] score [267] (blocks 237, kills 3) 
+[Match Result]: player [AIM] score [503] (blocks 413, kills 9), player [啊吧啊吧吧] score [29] (blocks 19, kills 1) 
+[Match Result]: player [AIM] score [205] (blocks 155, kills 5), player [王中王] score [358] (blocks 298, kills 6) 
+[Match Result]: player [AIM] score [524] (blocks 424, kills 10), player [ ] score [0] (blocks 0, kills 0) 
+Round 2 
+[Match Result]: player [划水摸鱼拉拉面] score [101] (blocks 81, kills 2), player [AIM] score [431] (blocks 361, kills 7) 
+[Match Result]: player [AIM] score [512] (blocks 412, kills 10), player [魔法电路全队] score [6] (blocks 6, kills 0) 
+[Match Result]: player [AIM] score [479] (blocks 419, kills 6), player [啊吧啊吧吧] score [27] (blocks 27, kills 0) 
+[Match Result]: player [AIM] score [516] (blocks 446, kills 7), player [汪汪队] score [15] (blocks 5, kills 1) 
+[Match Result]: player [AIM] score [517] (blocks 417, kills 10), player [ ] score [0] (blocks 0, kills 0) 
+[Match Result]: player [AIM] score [300] (blocks 240, kills 6), player [王中王] score [226] (blocks 206, kills 2) 
+Round 3 
+[Match Result]: player [AIM] score [502] (blocks 432, kills 7), player [啊吧啊吧吧] score [2] (blocks 2, kills 0) 
+[Match Result]: player [划水摸鱼拉拉面] score [101] (blocks 81, kills 2), player [AIM] score [431] (blocks 361, kills 7) 
+[Match Result]: player [AIM] score [540] (blocks 450, kills 9), player [汪汪队] score [12] (blocks 2, kills 1) 
+[Match Result]: player [AIM] score [517] (blocks 417, kills 10), player [魔法电路全队] score [0] (blocks 0, kills 0) 
+[Match Result]: player [AIM] score [105] (blocks 55, kills 5), player [王中王] score [444] (blocks 374, kills 7) 
+[Match Result]: player [AIM] score [546] (blocks 446, kills 10), player [ ] score [0] (blocks 0, kills 0) 
+Round 4 
+[Match Error]: server s19 exited '139', client AIM ExitCode: '1', client ExitCode: '0' 
+[Match Result]: player [AIM] score [513] (blocks 413, kills 10), player [魔法电路全队] score [5] (blocks 5, kills 0) 
+[Match Result]: player [AIM] score [300] (blocks 250, kills 5), player [汪汪队] score [211] (blocks 191, kills 2) 
+[Match Result]: player [划水摸鱼拉拉面] score [83] (blocks 73, kills 1), player [AIM] score [447] (blocks 367, kills 8) 
+[Match Result]: player [AIM] score [396] (blocks 316, kills 8), player [王中王] score [137] (blocks 107, kills 3) 
+[Match Result]: player [AIM] score [529] (blocks 449, kills 8), player [啊吧啊吧吧] score [3] (blocks 3, kills 0) 
+Round 5 
+[Match Result]: player [划水摸鱼拉拉面] score [111] (blocks 91, kills 2), player [AIM] score [427] (blocks 347, kills 8) 
+[Match Result]: player [AIM] score [426] (blocks 356, kills 7), player [王中王] score [87] (blocks 77, kills 1) 
+[Match Result]: player [AIM] score [511] (blocks 411, kills 10), player [魔法电路全队] score [7] (blocks 7, kills 0) 
+[Match Result]: player [AIM] score [491] (blocks 431, kills 6), player [啊吧啊吧吧] score [17] (blocks 7, kills 1) 
+[Match Result]: player [AIM] score [513] (blocks 433, kills 8), player [汪汪队] score [21] (blocks 1, kills 2) 
+[Match Result]: player [AIM] score [529] (blocks 429, kills 10), player [ ] score [0] (blocks 0, kills 0) 
+########## END No.4 Judge of Day 3 ##########
+
+########## START No.5 Judge of Day 3 ########## 
+Round 1 
+[Match Result]: player [AIM] score [506] (blocks 406, kills 10), player [魔法电路全队] score [12] (blocks 12, kills 0) 
+[Match Result]: player [划水摸鱼拉拉面] score [119] (blocks 109, kills 1), player [AIM] score [400] (blocks 330, kills 7) 
+[Match Result]: player [AIM] score [483] (blocks 423, kills 6), player [啊吧啊吧吧] score [9] (blocks 9, kills 0) 
+[Match Result]: player [AIM] score [507] (blocks 417, kills 9), player [王中王] score [27] (blocks 27, kills 0) 
+[Match Result]: player [AIM] score [501] (blocks 441, kills 6), player [ ] score [27] (blocks 7, kills 2) 
+[Match Result]: player [AIM] score [250] (blocks 200, kills 5), player [汪汪队] score [286] (blocks 236, kills 5) 
+Round 2 
+[Match Result]: player [AIM] score [486] (blocks 416, kills 7), player [汪汪队] score [35] (blocks 15, kills 2) 
+[Match Result]: player [划水摸鱼拉拉面] score [127] (blocks 117, kills 1), player [AIM] score [393] (blocks 323, kills 7) 
+[Match Result]: player [AIM] score [424] (blocks 384, kills 4), player [啊吧啊吧吧] score [63] (blocks 63, kills 0) 
+[Match Result]: player [AIM] score [505] (blocks 405, kills 10), player [魔法电路全队] score [13] (blocks 13, kills 0) 
+[Match Result]: player [AIM] score [437] (blocks 367, kills 7), player [ ] score [37] (blocks 17, kills 2) 
+[Match Result]: player [AIM] score [356] (blocks 256, kills 10), player [王中王] score [136] (blocks 106, kills 3) 
+Round 3 
+[Match Result]: player [AIM] score [494] (blocks 414, kills 8), player [啊吧啊吧吧] score [28] (blocks 28, kills 0) 
+[Match Result]: player [AIM] score [128] (blocks 98, kills 3), player [王中王] score [417] (blocks 347, kills 7) 
+[Match Result]: player [AIM] score [500] (blocks 440, kills 6), player [ ] score [28] (blocks 8, kills 2) 
+[Match Result]: player [AIM] score [508] (blocks 408, kills 10), player [魔法电路全队] score [10] (blocks 10, kills 0) 
+[Match Result]: player [AIM] score [511] (blocks 431, kills 8), player [汪汪队] score [21] (blocks 1, kills 2) 
+[Match Result]: player [划水摸鱼拉拉面] score [112] (blocks 92, kills 2), player [AIM] score [421] (blocks 351, kills 7) 
+Round 4 
+[Match Error]: server s19 exited '139', client AIM ExitCode: '1', client ExitCode: '0' 
+[Match Result]: player [AIM] score [498] (blocks 398, kills 10), player [魔法电路全队] score [24] (blocks 24, kills 0) 
+[Match Result]: player [AIM] score [485] (blocks 415, kills 7), player [啊吧啊吧吧] score [14] (blocks 14, kills 0) 
+[Match Result]: player [AIM] score [428] (blocks 358, kills 7), player [王中王] score [93] (blocks 83, kills 1) 
+[Match Result]: player [划水摸鱼拉拉面] score [75] (blocks 75, kills 0), player [AIM] score [426] (blocks 366, kills 6) 
+[Match Result]: player [AIM] score [533] (blocks 453, kills 8), player [汪汪队] score [13] (blocks 3, kills 1) 
+Round 5 
+[Match Result]: player [AIM] score [72] (blocks 52, kills 2), player [王中王] score [478] (blocks 398, kills 8) 
+[Match Result]: player [划水摸鱼拉拉面] score [75] (blocks 75, kills 0), player [AIM] score [426] (blocks 366, kills 6) 
+[Match Result]: player [AIM] score [466] (blocks 386, kills 8), player [啊吧啊吧吧] score [34] (blocks 24, kills 1) 
+[Match Result]: player [AIM] score [513] (blocks 413, kills 10), player [魔法电路全队] score [5] (blocks 5, kills 0) 
+[Match Result]: player [AIM] score [433] (blocks 363, kills 7), player [汪汪队] score [90] (blocks 60, kills 3) 
+[Match Result]: player [AIM] score [553] (blocks 453, kills 10), player [ ] score [10] (blocks 0, kills 1) 
+########## END No.5 Judge of Day 3 ##########
